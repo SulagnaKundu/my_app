@@ -1,0 +1,56 @@
+Arguments: 
+  C:\Users\DELL\.atri\webapp-builder-win.exe.v0.0.90 C:\snapshot\webapp-builder\node_modules\yarn\bin\yarn.js install
+
+PATH: 
+  C:\Users\DELL\anaconda3\envs\my_env;C:\Users\DELL\anaconda3\envs\my_env\Library\mingw-w64\bin;C:\Users\DELL\anaconda3\envs\my_env\Library\usr\bin;C:\Users\DELL\anaconda3\envs\my_env\Library\bin;C:\Users\DELL\anaconda3\envs\my_env\Scripts;C:\Users\DELL\anaconda3\envs\my_env\bin;C:\Users\DELL\anaconda3\condabin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\MinGW\bin;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\OpenSSL-Win64\bin;C:\Users\DELL\OpenSSL-Win64\bin;C:\Users\DELL\AppData\Local\Microsoft\WindowsApps;C:\Users\DELL\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\DELL\heroku\bin;C:\Users\DELL\AppData\Roaming\npm;C:\Program Files (x86)\MongoDB Atlas CLI;C:\Users\DELL\Anaconda3\Scripts;C:\Users\DELL\Anaconda3;.
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.16.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: connect EHOSTUNREACH 104.16.22.35:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+npm manifest: 
+  {
+    "name": "atri-react-app-template",
+    "version": "0.0.0",
+    "private": "true",
+    "scripts": {
+      "buildApp": "atri-react-app-build-app",
+      "buildAppNode": "atri-react-app-build-server",
+      "buildServer": "cd server && tsc",
+      "build": "yarn run buildApp && yarn run buildAppNode",
+      "devServer": "node dist/server/index.js --dev",
+      "server": "node dist/server/index.js",
+      "dev": "atri-react-app-dev-server"
+    },
+    "dependencies": {
+      "@atrilabs/app-scripts": "^0.0.90",
+      "@atrilabs/core": "^0.0.90",
+      "chokidar": "^3.5.3",
+      "http-proxy-middleware": "^2.0.6",
+      "react": "18.0.0",
+      "react-dom": "18.0.0",
+      "react-router-dom": "^6.3.0",
+      "ws": "^8.8.0",
+      "zustand": "^4.0.0-rc.1",
+      "@atrilabs/react-component-manifests": "^0.0.90"
+    },
+    "devDependencies": {
+      "eslint-config-prettier": "^8.5.0",
+      "eslint-config-react-app": "^7.0.1"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

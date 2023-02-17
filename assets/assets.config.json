@@ -1,0 +1,113 @@
+{
+  "burgur.jpg": {
+    "mime": "image/jpeg"
+  },
+  "image.svg": {
+    "mime": "image/svg+xml"
+  },
+  "one.svg": {
+    "mime": "image/svg+xml"
+  },
+  "two.svg": {
+    "mime": "image/svg+xml"
+  },
+  "three.svg": {
+    "mime": "image/svg+xml"
+  },
+  "four.svg": {
+    "mime": "image/svg+xml"
+  },
+  "img1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "img2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "img3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "img4.svg": {
+    "mime": "image/svg+xml"
+  },
+  "dish.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "loc.svg": {
+    "mime": "image/svg+xml"
+  },
+  "call.svg": {
+    "mime": "image/svg+xml"
+  },
+  "mail.svg": {
+    "mime": "image/svg+xml"
+  },
+  "ice.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "french.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "pan.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "icecream.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "toast.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "coke.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "newimg.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "rating.svg": {
+    "mime": "image/svg+xml"
+  },
+  "man.jpg": {
+    "mime": "image/jpeg"
+  },
+  "arrow2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "img1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "fries.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "cheeza.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "dessert.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "pao.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "newburg.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "fry.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "i1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "i2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "i3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "i4.jpeg": {
+    "mime": "image/jpeg"
+  }
+}
